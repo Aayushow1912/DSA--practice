@@ -1,5 +1,7 @@
 // C++ program for implementation
 // of Bubble sort
+//data structure
+//and algorithm
 #include <bits/stdc++.h>
 using namespace std;
  
